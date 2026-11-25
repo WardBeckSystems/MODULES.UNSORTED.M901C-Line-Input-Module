@@ -1,5 +1,5 @@
 # 1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp
-Wiki page: [M901C](../../../PAGES/M901C.md)
+Wiki page: [M901C](../../../../PAGES/M901C.md)
 
 
 - **Year:** 1996 (found in this file: "Issue #4 February 8, 1996")
@@ -891,7 +891,7 @@ MW94001/M901C#4.WP
 
 ```json
 {
- "file": "Modules/UNSORTED/M901C/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+ "file": "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
  "sha256": "05636332f948ec213e3ddcc9ea8b3409357ca566fe4450aa6e97d625f4ee18a3",
  "kind": "module",
  "models": [

@@ -1,0 +1,72 @@
+{
+ "code": "M901C",
+ "connector": "RTO-144",
+ "type": "Stereo Line Input Module",
+ "series": null,
+ "contacts": "46 contacts",
+ "verified": null,
+ "derived": true,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "35",
+   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  },
+  {
+   "pin": "36",
+   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  },
+  {
+   "pin": "41",
+   "signal": "CUE CHANNEL TOGGLES ON AND OFF",
+   "kind": "audio",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  },
+  {
+   "pin": "45",
+   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  },
+  {
+   "pin": "46",
+   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
+   "kind": "control",
+   "pair": null,
+   "polarity": null,
+   "confidence": "medium",
+   "read_from": "prose",
+   "file": "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [],
+ "sources": [
+  "Modules/UNSORTED/M901C/SCHEMATICS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp"
+ ]
+}
