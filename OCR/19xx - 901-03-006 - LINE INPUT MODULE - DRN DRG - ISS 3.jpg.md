@@ -32,7 +32,7 @@ Wiki page: [M901C](../../../../PAGES/M901C.md)
 - **Words (OCR):** 32 in 28 lines: 2 RECD" · 0203 · (oi · SHONTATON · 0,07n · secnor · DETAL · (FUL Rao SloT) · MATERIAL: ALUM ALLOY 0.125 THICK · 12412 · 12272 · FINISH: SAND 120 Grit AND PAINT
 - **Title block:** (704, 40)–(823, 72) mm: Lsueloan · RESIO · WES WARD · BECK SYSTEMS · M9O1C
 
-Every curve, box, word and wire group: [19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20901-03-006%20-%20LINE%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%203%20(traced).json) (the CAD file: `19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3 (traced).json](../MECHANICAL/19xx%20-%20901-03-006%20-%20LINE%20INPUT%20MODULE%20-%20DRN%20DRG%20-%20ISS%203%20%28traced%29.json) (the CAD file: `19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3 (traced).dxf`).
 
 ## Full text
 
