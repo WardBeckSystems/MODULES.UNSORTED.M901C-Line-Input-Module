@@ -1,27 +1,27 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 939 1007" font-family="Overpass Mono, ui-monospace, monospace">
-<title>M901C: M901C Line Input Module (Renaissance), Ward-Beck Systems. Pinout from RTO.json.</title>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 693 910" font-family="Overpass Mono, Consolas, ui-monospace, monospace">
+<title>M901C Line Input Module: symbol</title>
 <rect width="100%" height="100%" fill="#ffffff"/>
-<rect x="215.4" y="177.8" width="558.8" height="609.6" fill="#F5ECDB" stroke="#6B4E16" stroke-width="2.5"/>
-<line x1="164.6" y1="203.2" x2="215.4" y2="203.2" stroke="#2E6B34" stroke-width="2"/>
-<circle cx="164.6" cy="203.2" r="3" fill="#fff" stroke="#2E6B34" stroke-width="1.5"/>
-<text x="223.0" y="203.2" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">CUE-CHANNEL-TOGGLES-ON-AND-OFF</text>
-<text x="190.0" y="199.2" font-size="10" text-anchor="middle" fill="#2E6B34">41</text>
-<line x1="164.6" y1="254.0" x2="215.4" y2="254.0" stroke="#7A4E2A" stroke-width="2"/>
-<circle cx="164.6" cy="254.0" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
-<text x="223.0" y="254.0" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">LAMP-INTEGRAL-TO-THE-CHANNEL-OFF-SWITCH-A</text>
-<text x="190.0" y="250.0" font-size="10" text-anchor="middle" fill="#7A4E2A">45</text>
-<line x1="164.6" y1="279.4" x2="215.4" y2="279.4" stroke="#7A4E2A" stroke-width="2"/>
-<circle cx="164.6" cy="279.4" r="3" fill="#fff" stroke="#7A4E2A" stroke-width="1.5"/>
-<text x="223.0" y="279.4" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c">LAMP-INTEGRAL-TO-THE-CHANNEL-OFF-SWITCH-B</text>
-<text x="190.0" y="275.4" font-size="10" text-anchor="middle" fill="#7A4E2A">46</text>
-<line x1="494.8" y1="838.2" x2="494.8" y2="787.4" stroke="#333333" stroke-width="2"/>
-<circle cx="494.8" cy="838.2" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
-<text x="494.8" y="779.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 494.8 779.8)">MOMENTARY-CLOSURE-TO-CONTROL-COMMON-VIA-AN</text>
-<text x="490.8" y="812.8" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 490.8 812.8)">35</text>
-<line x1="494.8" y1="838.2" x2="494.8" y2="787.4" stroke="#333333" stroke-width="2"/>
-<circle cx="494.8" cy="838.2" r="3" fill="#fff" stroke="#333333" stroke-width="1.5"/>
-<text x="494.8" y="779.8" font-size="12.7" dominant-baseline="middle" text-anchor="start" fill="#1f1e1c" transform="rotate(-90 494.8 779.8)">MOMENTARY-CLOSURE-TO-CONTROL-COMMON-VIA-AN</text>
-<text x="490.8" y="812.8" font-size="10" text-anchor="middle" fill="#333333" transform="rotate(-90 490.8 812.8)">36</text>
-<text x="494.8" y="101.6" font-size="14" font-weight="700" text-anchor="middle" fill="#6B4E16">M901C</text>
-<text x="494.8" y="905.6" font-size="11" text-anchor="middle" fill="#6d6a63">Renaissance · RTO-144 · Ward-Beck Systems</text>
+<rect x="94.3" y="132.5" width="558.8" height="609.6" fill="#F5ECDB" stroke="#6B4E16" stroke-width="3.00"/>
+<line x1="43.5" y1="157.8" x2="94.3" y2="157.8" stroke="#2E6B34" stroke-width="2.50"/>
+<circle cx="43.5" cy="157.8" r="3.5" fill="#ffffff" stroke="#2E6B34" stroke-width="1.50"/>
+<text x="101.9" y="157.8" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">CUE-CHANNEL-TOGGLES-ON-AND-OFF</text>
+<text x="68.9" y="148.9" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#2E6B34">41</text>
+<line x1="43.5" y1="208.7" x2="94.3" y2="208.7" stroke="#7A4E2A" stroke-width="2.50"/>
+<circle cx="43.5" cy="208.7" r="3.5" fill="#ffffff" stroke="#7A4E2A" stroke-width="1.50"/>
+<text x="101.9" y="208.7" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">LAMP-INTEGRAL-TO-THE-CHANNEL-OFF-SWITCH-A</text>
+<text x="68.9" y="199.7" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#7A4E2A">45</text>
+<line x1="43.5" y1="234.1" x2="94.3" y2="234.1" stroke="#7A4E2A" stroke-width="2.50"/>
+<circle cx="43.5" cy="234.1" r="3.5" fill="#ffffff" stroke="#7A4E2A" stroke-width="1.50"/>
+<text x="101.9" y="234.1" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C">LAMP-INTEGRAL-TO-THE-CHANNEL-OFF-SWITCH-B</text>
+<text x="68.9" y="225.1" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#7A4E2A">46</text>
+<line x1="373.7" y1="792.8" x2="373.7" y2="742.1" stroke="#333333" stroke-width="2.50"/>
+<circle cx="373.7" cy="792.8" r="3.5" fill="#ffffff" stroke="#333333" stroke-width="1.50"/>
+<text x="373.7" y="734.4" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C" transform="rotate(-90 373.7 734.4)">MOMENTARY-CLOSURE-TO-CONTROL-COMMON-VIA-AN</text>
+<text x="364.7" y="767.5" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#333333" transform="rotate(-90 364.7 767.5)">35</text>
+<line x1="373.7" y1="792.8" x2="373.7" y2="742.1" stroke="#333333" stroke-width="2.50"/>
+<circle cx="373.7" cy="792.8" r="3.5" fill="#ffffff" stroke="#333333" stroke-width="1.50"/>
+<text x="373.7" y="734.4" font-size="17.0" dominant-baseline="middle" text-anchor="start" fill="#1F1E1C" transform="rotate(-90 373.7 734.4)">MOMENTARY-CLOSURE-TO-CONTROL-COMMON-VIA-AN</text>
+<text x="364.7" y="767.5" font-size="13.0" dominant-baseline="middle" text-anchor="middle" fill="#333333" transform="rotate(-90 364.7 767.5)">36</text>
+<text x="373.7" y="56.2" font-size="26.0" dominant-baseline="middle" text-anchor="middle" fill="#6B4E16" font-weight="700">M901C</text>
+<text x="373.7" y="860.2" font-size="16.0" dominant-baseline="middle" text-anchor="middle" fill="#6D6A63">Renaissance · RTO-144 · Ward-Beck Systems</text>
 </svg>
