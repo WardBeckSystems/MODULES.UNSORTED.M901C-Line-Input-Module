@@ -1,5 +1,5 @@
 # 19xx - 901-03-006 - LINE INPUT MODULE - DRN DRG - ISS 3.jpg
-Wiki page: [M901C](../../../../PAGES/M901C.md)
+Wiki page: [M901C](../)
 
 
 - **Year:** unknown (title block (read by eye))

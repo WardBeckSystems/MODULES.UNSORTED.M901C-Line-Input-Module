@@ -1,5 +1,5 @@
 # 1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp
-Wiki page: [M901C](../../../../PAGES/M901C.md)
+Wiki page: [M901C](../)
 
 
 - **Year:** 1996 (found in this file: "Issue #4 February 8, 1996")

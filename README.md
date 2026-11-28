@@ -1,6 +1,6 @@
 # M901C Line Input Module · Renaissance
 
-Ward-Beck Systems M901C, 1994|27. Wiki page: [M901C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M901C.html)
+Ward-Beck Systems M901C, 1994|27. Wiki page: [M901C on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.RENAISSANCE.M901C-Line-Input-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|
