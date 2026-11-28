@@ -7,66 +7,54 @@
  "verified": null,
  "derived": true,
  "variant_of": null,
- "pins": [
-  {
-   "pin": "35",
-   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/RENAISSANCE/M901C/MANUALS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  },
-  {
-   "pin": "36",
-   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/RENAISSANCE/M901C/MANUALS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  },
-  {
-   "pin": "41",
-   "signal": "CUE CHANNEL TOGGLES ON AND OFF",
-   "kind": "audio",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/RENAISSANCE/M901C/MANUALS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  },
-  {
-   "pin": "45",
-   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
-   "kind": "control",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/RENAISSANCE/M901C/MANUALS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  },
-  {
-   "pin": "46",
-   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
-   "kind": "control",
-   "pair": null,
-   "polarity": null,
-   "confidence": "medium",
-   "read_from": "prose",
-   "file": "Modules/RENAISSANCE/M901C/MANUALS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp",
-   "page": 1
-  }
- ],
  "straps": [],
  "power": [],
  "sources": [
   "Modules/RENAISSANCE/M901C/MANUALS/1996 - M901C - 14-281-02-001 - SA14-281 - INPUT AMPLIFIER - ASSEMBLY.wp"
- ]
+ ],
+ "pins": [
+  {
+   "connector": "",
+   "pin": "35",
+   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "36",
+   "signal": "MOMENTARY CLOSURE TO CONTROL COMMON VIA AN",
+   "kind": "ground",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "41",
+   "signal": "CUE CHANNEL TOGGLES ON AND OFF",
+   "kind": "in",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "45",
+   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
+   "kind": "control",
+   "port": null,
+   "polarity": null
+  },
+  {
+   "connector": "",
+   "pin": "46",
+   "signal": "LAMP INTEGRAL TO THE CHANNEL OFF SWITCH",
+   "kind": "control",
+   "port": null,
+   "polarity": null
+  }
+ ],
+ "built_from": {
+  "synthesized": "tools/symbol_synth.py in WBSps.ca from Engineering/IO/M901C.pins.json"
+ }
 }
